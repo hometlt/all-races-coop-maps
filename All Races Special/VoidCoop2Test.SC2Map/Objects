@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PlacedObjects Version="27">
+    <ObjectPoint Id="1942440791" Position="35.5,23.5,0" Scale="1,1,1" Type="StartLoc" Name="Start Location 001" Color="0,0,0,0"/>
+    <ObjectUnit Id="478228607" Position="72.0534,89.2341,0" Rotation="0.994" Scale="1,1,1" UnitType="ARC@Thor" Player="1"/>
+    <ObjectUnit Id="1200881202" Position="92.5,44.5,0" Rotation="5.7595" Scale="1,1,1" UnitType="ARC@InfestationPit" Player="1"/>
+    <ObjectUnit Id="1105663483" Position="89,56,0" Rotation="5.4975" Scale="1,1,1" UnitType="ARC@Spire" Player="1"/>
+    <ObjectUnit Id="2070835213" Position="87.969,46.6577,0" Rotation="4.4265" Scale="1,1,1" UnitType="ARC@SwarmHost" Player="1"/>
+    <ObjectUnit Id="2103310458" Position="68,85,0" Rotation="5.4975" Scale="1,1,1" UnitType="ARC@TechLab" Player="1"/>
+    <ObjectUnit Id="772159247" Position="50,72,0" Scale="1,1,1" UnitType="ARC@Pylon" Player="1">
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectUnit>
+    <ObjectUnit Id="1768703634" Position="84.0065,78.9062,0" Rotation="4.5888" Scale="1,1,1" UnitType="ARC@SCV" Player="1"/>
+    <ObjectUnit Id="1946013312" Variation="1" Position="70,67.5,0" Scale="1,1,1" UnitType="MineralField"/>
+    <ObjectUnit Id="1500499191" Position="34.5,73.5,0" Rotation="0.7851" Scale="1,1,1" UnitType="ARC@TemplarArchive" Player="1">
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectUnit>
+    <ObjectUnit Id="690784917" Position="31.8002,64.7092,0" Rotation="5.4038" Scale="1,1,1" UnitType="ARC@Tempest" Player="1"/>
+    <ObjectUnit Id="388049586" Position="46.209,65.9904,0" Rotation="2.7138" Scale="1,1,1" UnitType="ARC@Archon" Player="1"/>
+    <ObjectUnit Id="317777960" Position="45.6643,64.3435,0" Rotation="3.5212" Scale="1,1,1" UnitType="ARC@Adept" Player="1"/>
+    <ObjectUnit Id="1404512452" Position="86.8513,41.51,0" Rotation="2.2685" Scale="1,1,1" UnitType="ARC@Hydralisk" Player="1"/>
+    <ObjectUnit Id="2036951977" Position="65.5,73.5,0" Rotation="5.4975" Scale="1,1,1" UnitType="ARC@Refinery" Player="1"/>
+    <ObjectUnit Id="1708716089" Position="77.455,42.8408,0" Rotation="4.4853" Scale="1,1,1" UnitType="ARC@Zergling" Player="1"/>
+    <ObjectUnit Id="2002255049" Variation="9" Position="79,67.5,0" Scale="1,1,1" UnitType="MineralField"/>
+    <ObjectUnit Id="1355023085" Position="39.1154,60.182,0" Rotation="1.578" Scale="1,1,1" UnitType="ARC@WarpPrism" Player="1"/>
+    <ObjectUnit Id="732787304" Position="65.5,82.5,0" Rotation="5.4975" Scale="1,1,1" UnitType="ARC@Factory" Player="1"/>
+    <ObjectUnit Id="158322961" Position="35.954,63.765,0" Rotation="6.0598" Scale="1,1,1" UnitType="ARC@Stalker" Player="1"/>
+    <ObjectUnit Id="1035708194" Position="68,82,0" Rotation="5.4975" Scale="1,1,1" UnitType="ARC@TechLab" Player="1"/>
+    <ObjectUnit Id="924963559" Position="85.493,47.1604,0" Rotation="5.61" Scale="1,1,1" UnitType="ARC@OverlordTransport" Player="1"/>
+    <ObjectUnit Id="1863885644" Position="83.6093,50.9023,0" Rotation="3.2915" Scale="1,1,1" UnitType="ARC@Drone" Player="1"/>
+    <ObjectUnit Id="341109145" Position="82.8574,84.589,0" Rotation="4.2448" Scale="1,1,1" UnitType="ARC@Raven" Player="1"/>
+    <ObjectUnit Id="1462310986" Position="84.718,51.5224,0" Rotation="3.497" Scale="1,1,1" UnitType="ARC@Drone" Player="1"/>
+    <ObjectUnit Id="2090893228" Position="81.3447,78.9494,0" Rotation="5.8925" Scale="1,1,1" UnitType="ARC@Reaper" Player="1"/>
+    <ObjectUnit Id="1205260684" Variation="2" Position="79,53.5,0" Scale="1,1,1" UnitType="MineralField"/>
+    <ObjectUnit Id="480782056" Position="39.0998,59.6806,0" Rotation="5.473" Scale="1,1,1" UnitType="ARC@Zealot" Player="1"/>
+    <ObjectUnit Id="1144869974" Position="71.521,82.0053,0" Rotation="1.4145" Scale="1,1,1" UnitType="ARC@Cyclone" Player="1"/>
+    <ObjectUnit Id="1586891280" Position="82.7687,46.7348,0" Rotation="2.8295" Scale="1,1,1" UnitType="ARC@Overlord" Player="1"/>
+    <ObjectUnit Id="1089316756" Variation="2" Position="74,67.5,0" Scale="1,1,1" UnitType="MineralField"/>
+    <ObjectUnit Id="594535699" Position="44,69,0" Scale="1,1,1" UnitType="ARC@Pylon" Player="1">
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectUnit>
+    <ObjectUnit Id="1244680653" Position="39,73,0" Scale="1,1,1" UnitType="ARC@Pylon" Player="1">
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectUnit>
+    <ObjectUnit Id="1493181137" Position="39.0732,61.9047,0" Rotation="1.0498" Scale="1,1,1" UnitType="ARC@DarkTemplar" Player="1"/>
+    <ObjectUnit Id="721812106" Position="76.639,47.9836,0" Rotation="1.5461" Scale="1,1,1" UnitType="ARC@Baneling" Player="1"/>
+    <ObjectUnit Id="1074546306" Position="79.5,38.5,0" Rotation="5.707" Scale="1,1,1" UnitType="ARC@RoachWarren" Player="1"/>
+    <ObjectUnit Id="615278687" Position="83.5,47.5,0" Scale="1,1,1" UnitType="ARC@Hatchery" Player="1"/>
+    <ObjectUnit Id="1654991401" Position="44.3156,74.7167,0" Rotation="3.5764" Scale="1,1,1" UnitType="ARC@Probe" Player="1"/>
+    <ObjectUnit Id="2057649241" Position="35.981,67.542,0" Rotation="3.0502" Scale="1,1,1" UnitType="ARC@Mothership" Player="1"/>
+    <ObjectUnit Id="1255526672" Position="41.5,71.5,0" Rotation="1.5712" Scale="1,1,1" UnitType="ARC@Nexus" Player="1"/>
+    <ObjectUnit Id="1706353352" Position="84.5834,45.256,0" Rotation="2.8974" Scale="1,1,1" UnitType="ARC@Overseer" Player="1"/>
+    <ObjectUnit Id="1800969867" Position="42.4672,75.192,0" Rotation="3.5764" Scale="1,1,1" UnitType="ARC@Probe" Player="1"/>
+    <ObjectUnit Id="1258988163" Position="34,68,0" Rotation="2.1782" Scale="1,1,1" UnitType="ARC@PhotonCannon" Player="1"/>
+    <ObjectUnit Id="1219310054" Position="79.5163,50.616,0" Rotation="1.874" Scale="1,1,1" UnitType="ARC@Queen" Player="1"/>
+    <ObjectUnit Id="961285401" Position="31.5,73.5,0" Rotation="5.4975" Scale="1,1,1" UnitType="ARC@CyberneticsCore" Player="1">
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectUnit>
+    <ObjectUnit Id="770928796" Position="40.7695,75.4545,0" Rotation="3.5764" Scale="1,1,1" UnitType="ARC@Probe" Player="1"/>
+    <ObjectUnit Id="1011014395" Variation="3" Position="44,78.5,0" Scale="1,1,1" UnitType="MineralField"/>
+    <ObjectUnit Id="329070637" Position="84.5,37.5,0" Rotation="0.5234" Scale="1,1,1" UnitType="ARC@LurkerDen" Player="1"/>
+    <ObjectUnit Id="1025657163" Position="87.9812,50.9775,0" Rotation="2.9536" Scale="1,1,1" UnitType="ARC@Viper" Player="1"/>
+    <ObjectUnit Id="2052608904" Position="39,69,0" Scale="1,1,1" UnitType="ARC@Pylon" Player="1">
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectUnit>
+    <ObjectUnit Id="878080978" Position="93.5,49.5,0" Rotation="5.7595" Scale="1,1,1" UnitType="ARC@EvolutionChamber" Player="1"/>
+    <ObjectUnit Id="933514542" Variation="1" Position="81,55.5,0" Scale="1,1,1" UnitType="MineralField"/>
+    <ObjectUnit Id="1835270272" Position="49,68,0" Scale="1,1,1" UnitType="ARC@ShieldBattery" Player="1"/>
+    <ObjectUnit Id="1781472285" Position="77.6396,44.752,0" Rotation="3.6352" Scale="1,1,1" UnitType="ARC@Ultralisk" Player="1"/>
+    <ObjectUnit Id="1251333560" Position="44.5,71.5,0" Scale="1,1,1" UnitType="ARC@OracleStasisTrap" Player="1"/>
+    <ObjectUnit Id="1213336077" Position="73.5,51.5,0" Rotation="5.4975" Scale="1,1,1" UnitType="ARC@BanelingNest" Player="1"/>
+    <ObjectUnit Id="1235518481" Position="86,69,0" Rotation="5.4975" Scale="1,1,1" UnitType="ARC@SupplyDepot" Player="1"/>
+    <ObjectUnit Id="637152258" Position="80.0852,84.5202,0" Rotation="1.4667" Scale="1,1,1" UnitType="ARC@Medivac" Player="1"/>
+    <ObjectUnit Id="737797447" Position="43.9377,61.8647,0" Scale="1,1,1" UnitType="ARC@Disruptor" Player="1"/>
+    <ObjectUnit Id="1269296263" Position="39.8544,69.2045,0" Rotation="5.9362" Scale="1,1,1" UnitType="ARC@Carrier" Player="1"/>
+    <ObjectUnit Id="1873481891" Position="87.553,54.0068,0" Rotation="0.7175" Scale="1,1,1" UnitType="ARC@Corruptor" Player="1"/>
+    <ObjectUnit Id="1547020917" Position="65.5,79.5,0" Rotation="5.4975" Scale="1,1,1" UnitType="ARC@Barracks" Player="1"/>
+    <ObjectUnit Id="1808068580" Position="34.1997,63.765,0" Rotation="2.1352" Scale="1,1,1" UnitType="ARC@Sentry" Player="1"/>
+    <ObjectUnit Id="439155014" Position="31.5,70.5,0" Scale="1,1,1" UnitType="ARC@RoboticsBay" Player="1">
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectUnit>
+    <ObjectUnit Id="62948885" Position="77.8225,85.197,0" Rotation="2.985" Scale="1,1,1" UnitType="ARC@Liberator" Player="1"/>
+    <ObjectUnit Id="1051485092" Position="89.2558,54.5605,0" Rotation="4.9265" Scale="1,1,1" UnitType="ARC@BroodLord" Player="1"/>
+    <ObjectUnit Id="665313987" Position="89.8586,51.1401,0" Rotation="1.6384" Scale="1,1,1" UnitType="ARC@Mutalisk" Player="1"/>
+    <ObjectUnit Id="1742181298" Position="71.8884,85.285,0" Rotation="4.9697" Scale="1,1,1" UnitType="ARC@Banshee" Player="1"/>
+    <ObjectUnit Id="1756801715" Position="62.5,82.5,0" Rotation="5.4975" Scale="1,1,1" UnitType="ARC@EngineeringBay" Player="1"/>
+    <ObjectUnit Id="2055718673" Position="84.277,81.6994,0" Rotation="3.58" Scale="1,1,1" UnitType="ARC@VikingAssault" Player="1"/>
+    <ObjectUnit Id="528317996" Position="48.5,73.5,0" Rotation="5.4975" Scale="1,1,1" UnitType="ARC@FleetBeacon" Player="1">
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectUnit>
+    <ObjectUnit Id="11875312" Position="84.5,73.5,0" Rotation="4.839" Scale="1,1,1" UnitType="ARC@PlanetaryFortress" Player="1"/>
+    <ObjectUnit Id="1423982835" Variation="3" Position="77,67.5,0" Scale="1,1,1" UnitType="MineralField"/>
+    <ObjectUnit Id="715067177" Position="62.5,85.5,0" Rotation="5.4975" Scale="1,1,1" UnitType="ARC@FusionCore" Player="1"/>
+    <ObjectUnit Id="1814928681" Position="93,53,0" Rotation="5.9338" Scale="1,1,1" UnitType="ARC@GreaterSpire" Player="1"/>
+    <ObjectUnit Id="220110892" Position="33,72,0" Scale="1,1,1" UnitType="ARC@Pylon" Player="1">
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectUnit>
+    <ObjectUnit Id="1702335997" Position="74.0036,79.1413,0" Rotation="0.9501" Scale="1,1,1" UnitType="ARC@Marauder" Player="1"/>
+    <ObjectUnit Id="1425730768" Position="86.3425,79.009,0" Rotation="2.0561" Scale="1,1,1" UnitType="ARC@WidowMine" Player="1"/>
+    <ObjectUnit Id="1270794657" Position="41.057,60.7116,0" Rotation="4.9462" Scale="1,1,1" UnitType="ARC@HighTemplar" Player="1"/>
+    <ObjectUnit Id="505783971" Position="62.5,79.5,0" Scale="1,1,1" UnitType="ARC@Armory" Player="1"/>
+    <ObjectUnit Id="430788281" Position="89.5,39.5,0" Rotation="5.8117" Scale="1,1,1" UnitType="ARC@HydraliskDen" Player="1"/>
+    <ObjectUnit Id="818184834" Position="72.0017,79.132,0" Rotation="4.1625" Scale="1,1,1" UnitType="ARC@Ghost" Player="1"/>
+    <ObjectUnit Id="1529988358" Position="38.5,78.5,0" Rotation="5.4975" Scale="1,1,1" UnitType="ARC@Assimilator" Player="1"/>
+    <ObjectUnit Id="942288547" Position="60.5,74.5,0" Rotation="3.5498" Scale="1,1,1" UnitType="ARC@Bunker" Player="1"/>
+    <ObjectUnit Id="1555346352" Position="80,58,0" Rotation="5.9616" Scale="1,1,1" UnitType="ARC@SporeCrawler" Player="1"/>
+    <ObjectUnit Id="2058209352" Position="65.5,85.5,0" Rotation="5.4975" Scale="1,1,1" UnitType="ARC@Starport" Player="1"/>
+    <ObjectUnit Id="908128229" Position="36.303,8.2636,0" Rotation="2.884" Scale="1,1,1" UnitType="ARC@MothershipAiur06" Player="1"/>
+    <ObjectUnit Id="1361767698" Position="42.8754,64.46,0" Rotation="5.7934" Scale="1,1,1" UnitType="ARC@Oracle" Player="1"/>
+    <ObjectUnit Id="662225046" Position="80.9675,43.8735,0" Rotation="4.7304" Scale="1,1,1" UnitType="ARC@Roach" Player="1"/>
+    <ObjectUnit Id="652407918" Position="75.5,41.5,0" Scale="1,1,1" UnitType="ARC@SpawningPool" Player="1"/>
+    <ObjectUnit Id="1001501092" Position="34.5,70.5,0" Rotation="5.4975" Scale="1,1,1" UnitType="ARC@Forge" Player="1">
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectUnit>
+    <ObjectUnit Id="62836554" Position="33.9575,60.3498,0" Rotation="0.264" Scale="1,1,1" UnitType="ARC@VoidRay" Player="1"/>
+    <ObjectUnit Id="2141775230" Position="84.5,54.5,0" Rotation="5.7595" Scale="1,1,1" UnitType="ARC@Extractor" Player="1"/>
+    <ObjectUnit Id="213453595" Position="43.5,64.5,0" Rotation="5.4975" Scale="1,1,1" UnitType="ARC@Stargate" Player="1">
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectUnit>
+    <ObjectUnit Id="1208172356" Position="76.3493,89.2565,0" Rotation="2.6882" Scale="1,1,1" UnitType="ARC@ThorAP" Player="1"/>
+    <ObjectUnit Id="605380187" Position="71.9111,78.2956,0" Rotation="1.0935" Scale="1,1,1" UnitType="ARC@GhostAlternate" Player="1"/>
+    <ObjectUnit Id="827737330" Position="55,80,0" Rotation="5.2038" Scale="1,1,1" UnitType="ARC@MissileTurret" Player="1"/>
+    <ObjectUnit Id="2064765751" Position="44.3232,64.065,0" Rotation="3.3137" Scale="1,1,1" UnitType="ARC@Phoenix" Player="1"/>
+    <ObjectUnit Id="444881254" Position="77.3405,81.8544,0" Rotation="2.832" Scale="1,1,1" UnitType="ARC@Hellion" Player="1"/>
+    <ObjectUnit Id="405687534" Position="78.8364,79.05,0" Rotation="4.42" Scale="1,1,1" UnitType="ARC@MULE" Player="1"/>
+    <ObjectUnit Id="287298339" Position="53.6535,9.2363,0" Rotation="2.187" Scale="1,1,1" UnitType="Mothership" Player="1"/>
+    <ObjectUnit Id="1758166721" Position="74.584,85.1162,0" Rotation="2.659" Scale="1,1,1" UnitType="ARC@Battlecruiser" Player="1"/>
+    <ObjectUnit Id="819236813" Position="39.78,65.0214,0" Rotation="3.8547" Scale="1,1,1" UnitType="ARC@Colossus" Player="1"/>
+    <ObjectUnit Id="928841437" Variation="9" Position="42,77.5,0" Scale="1,1,1" UnitType="MineralField"/>
+    <ObjectUnit Id="743332062" Position="77,56,0" Rotation="3.7927" Scale="1,1,1" UnitType="ARC@SpineCrawler" Player="1"/>
+    <ObjectUnit Id="271630968" Variation="3" Position="45,77.5,0" Scale="1,1,1" UnitType="MineralField"/>
+    <ObjectUnit Id="41211377" Position="72.5,73.5,0" Rotation="5.4975" Scale="1,1,1" UnitType="ARC@CommandCenter" Player="1"/>
+    <ObjectUnit Id="1900656425" Position="76.4248,78.9821,0" Rotation="6.1447" Scale="1,1,1" UnitType="ARC@Marine" Player="1"/>
+    <ObjectUnit Id="1117087369" Position="62.5,88.5,0" Rotation="5.4975" Scale="1,1,1" UnitType="ARC@GhostAcademy" Player="1"/>
+    <ObjectUnit Id="1588925998" Position="51.5,73.5,0" Rotation="5.4975" Scale="1,1,1" UnitType="ARC@TwilightCouncil" Player="1">
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectUnit>
+    <ObjectUnit Id="1995439014" Position="48.5,70.5,0" Rotation="5.4975" Scale="1,1,1" UnitType="ARC@Assimilator" Player="1">
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectUnit>
+    <ObjectUnit Id="1359527331" Position="82.0275,51.1884,0" Rotation="0.8837" Scale="1,1,1" UnitType="ARC@Drone" Player="1"/>
+    <ObjectUnit Id="145789346" Position="78.481,42.8786,0" Rotation="5.6691" Scale="1,1,1" UnitType="ARC@Zergling" Player="1"/>
+    <ObjectUnit Id="934118954" Position="68,79,0" Rotation="5.4975" Scale="1,1,1" UnitType="ARC@TechLab" Player="1"/>
+    <ObjectUnit Id="1065261204" Position="72.5,46.5,0" Rotation="0.5234" Scale="1,1,1" UnitType="ARC@UltraliskCavern" Player="1"/>
+    <ObjectUnit Id="915425451" Position="78.5,73.5,0" Rotation="5.4975" Scale="1,1,1" UnitType="ARC@OrbitalCommand" Player="1"/>
+    <ObjectUnit Id="329544276" Position="83.0522,40.4194,0" Rotation="1.3625" Scale="1,1,1" UnitType="ARC@Lurker" Player="1"/>
+    <ObjectUnit Id="1277779977" Position="39.5,64.5,0" Rotation="5.4975" Scale="1,1,1" UnitType="ARC@RoboticsFacility" Player="1">
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectUnit>
+    <ObjectUnit Id="1439210472" Position="80.4638,42.0388,0" Rotation="3.4738" Scale="1,1,1" UnitType="ARC@Ravager" Player="1"/>
+    <ObjectUnit Id="106861484" Position="74.6975,82.0366,0" Rotation="6.057" Scale="1,1,1" UnitType="ARC@HellionTank" Player="1"/>
+    <ObjectUnit Id="1740621993" Position="80.5222,81.7937,0" Rotation="5.2395" Scale="1,1,1" UnitType="ARC@SiegeTank" Player="1"/>
+    <ObjectUnit Id="939780643" Position="80,54.5,0" Scale="1,1,1" UnitType="MineralField"/>
+    <ObjectUnit Id="1998597363" Position="42.8442,60.0651,0" Rotation="2.7832" Scale="1,1,1" UnitType="ARC@Observer" Player="1"/>
+    <ObjectUnit Id="1436860718" Position="46.4172,61.519,0" Rotation="0.455" Scale="1,1,1" UnitType="ARC@Immortal" Player="1"/>
+    <ObjectUnit Id="1899359595" Position="51.5,70.5,0" Rotation="5.4975" Scale="1,1,1" UnitType="ARC@Gateway" Player="1">
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectUnit>
+    <ObjectUnit Id="456524535" Position="89.6,46.0085,0" Rotation="5.7504" Scale="1,1,1" UnitType="ARC@Infestor" Player="1"/>
+    <ObjectUnit Id="1849257208" Position="86.5192,84.4155,0" Rotation="1.9658" Scale="1,1,1" UnitType="ARC@VikingFighter" Player="1"/>
+    <ObjectUnit Id="1306939108" Variation="5" Position="72,67.5,0" Scale="1,1,1" UnitType="MineralField"/>
+</PlacedObjects>

@@ -4,6 +4,11 @@
         <Value>Interface</Value>
     </ModType>
     <Dependencies>
-        <Value>file:Mods\all-races-mods\bundles\Factions.SC2Mod</Value>
+        <Value>file:Mods\all-races-mods\factions\Scion.SC2Mod</Value>
+        <Value>file:Mods\all-races-mods\factions\Synoid.SC2Mod</Value>
+        <Value>file:Mods\all-races-mods\factions\Dragons.SC2Mod</Value>
+        <Value>file:Mods\all-races-mods\factions\UED.SC2Mod</Value>
+        <Value>file:Mods\all-races-mods\factions\UPL.SC2Mod</Value>
+        <Value>file:Mods\all-races-mods\factions\Hybrids.SC2Mod</Value>
     </Dependencies>
 </DocInfo>

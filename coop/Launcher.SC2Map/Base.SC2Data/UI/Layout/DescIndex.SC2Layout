@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Desc>
+    <Include path="UI/Layout/AF_ScoreBackground.SC2Layout"/>
+    <Include path="UI/Layout/Button.SC2Layout"/>
+    <Include path="UI/Layout/UT_Button.SC2Layout"/>
+    <Include path="UI/Layout/AllRacesCoopLoading.SC2Layout"/>
+    <Include path="UI/Layout/Coop_CommanderSelection.SC2Layout"/>
+</Desc>

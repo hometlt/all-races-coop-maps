@@ -1,0 +1,2 @@
+﻿Soundtrack/Name/LauncherMusic=Launcher Music
+User/Name/Maps2=Maps Copy

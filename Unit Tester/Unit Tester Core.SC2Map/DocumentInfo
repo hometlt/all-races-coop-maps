@@ -4,6 +4,6 @@
         <Value>ScionLogoSmall.png</Value>
     </Icon>
     <Dependencies>
-        <Value>file:Mods\all-races-mods\tester\Core.SC2Mod</Value>
+        <Value>file:Mods\all-races-mods\dependencies\Tester.SC2Mod</Value>
     </Dependencies>
 </DocInfo>
